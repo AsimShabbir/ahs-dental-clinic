@@ -1,0 +1,5 @@
+forms/submissions/*.json
+!forms/submissions/.gitkeep
+Thumbs.db
+.DS_Store
+*.log
